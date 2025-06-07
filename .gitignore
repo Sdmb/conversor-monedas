@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Archivos compilados
+*.class
+
+# Carpetas de IDEs
+/.idea/
+/*.iml
+/.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
